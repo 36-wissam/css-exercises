@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.ClickMebtn.NoClickMebtn {
+    font-family: Helvetica,"Times New Roman",sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.ClickMebtn {
+    background-color: black;
+    color: white;
+}
+
+
+.NoClickMebtn {
+    background-color: yellow;
+    color: black;
+}
